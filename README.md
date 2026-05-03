@@ -1,5 +1,10 @@
 # AtliQ Hotels Data Analysis Project Using Python
 
+##Live Dashboard
+check out my [Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiMjhmYjg4N2YtYjVkYS00ZDVjLTlhN2QtOTY4MDk4ODU5OTZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
+
 ## Problem Statement:
 
 Atliq Grands, a prominent player in India's hotel industry, is facing increased competition and declining revenue. To tackle these challenges, the management team has decided to leverage data and strategic insights. Without in-house data expertise, they have sought external help to analyze the situation, provide actionable insights, and develop effective strategies for customer retention and revenue growth.
